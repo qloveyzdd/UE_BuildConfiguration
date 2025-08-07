@@ -1,1 +1,11 @@
 # UE_BuildConfiguration
+
+UE 5.3.2
+
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration xmlns="https://www.unrealengine.com/BuildConfiguration">
+<WindowsPlatform>
+<WindowsSdkVersion>10.0.19041.0</WindowsSdkVersion>
+<CompilerVersion>14.36.32532</CompilerVersion>
+</WindowsPlatform>
+</Configuration>
